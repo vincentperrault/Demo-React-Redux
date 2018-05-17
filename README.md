@@ -1,18 +1,20 @@
 # Exercice-React-Redux
 Exercice React-Redux pour un séminaire sur Redux
 
-## Indications
+## Installation
 
-Dans le répertoire du projet, exécuter la commande suivant pour obtenir les dépendances pour l'application :
+Installer les dépendences du projet :
 
-### `npm install`
+    $ cd <nom du répertoire de l'application>
+    $ npm install
+    
 
-Ensuite, encore dans le répertoire du projet, exécuter la commande suivante pour exécuter l'application :
+Les installations de packages peuvent prendre plusieurs minutes.
 
-### `npm start`
+## Exécution
 
-Runs the app in the development mode.<br>
-Ouvrez l'ur suivante: [http://localhost:3000](http://localhost:3000) pour visualiser l'application dans le fureteur.
+Dans une fenêtre de terminal, executer le projet :
 
-La page va s'actualiser au fur et à mesure que vous écrivez des bouts de code ou que vous modifiez le code.<br>
-Vous allez aussi voir les erreurs dans la console.
+    $ npm run start
+
+Avec un fureteur, se rendre à l'adresse [http://localhost:3000](http://localhost:3000)
