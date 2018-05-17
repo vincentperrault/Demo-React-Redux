@@ -3,7 +3,11 @@ Exercice React-Redux pour un séminaire sur Redux
 
 ## Indications
 
-Dans le répertoire du projet, roulez la commande suivante pour exécuter l'application :
+Dans le répertoire du projet, exécuter la commande suivant pour obtenir les dépendances pour l'application :
+
+### `npm install`
+
+Ensuite, encore dans le répertoire du projet, exécuter la commande suivante pour exécuter l'application :
 
 ### `npm start`
 
